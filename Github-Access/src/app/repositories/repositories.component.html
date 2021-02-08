@@ -2,7 +2,7 @@
     <app-search-form (searchOutput)= "repoSearch($event)"></app-search-form>
     <div class=" ">
         <div class="contianer" id="repo">
-            
+    
                 <div class="card"  *ngFor="let repository of repo" style="width: 22rem;" class="repo">
                     <div class="card-body">
                      <h5 class="card-title">Repo Name: &nbsp;{{repository.name}} </h5>
