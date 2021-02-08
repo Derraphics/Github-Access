@@ -9,7 +9,22 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## BDD :
 
+* A user can search for github users by simply typing their usernames
+* A user is able to explore profiles of different github users
+
+## Author :
+
+* Derrick Muriithi W
+
+##  Contact nformation :
+
+* derrickmuriithi988@gmail.com
+
+##  Licence Information
+
+* This software application is under MIT licence
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
